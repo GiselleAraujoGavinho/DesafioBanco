@@ -1,10 +1,10 @@
 # 🏦 Desafio Banco
 
-Este é um aplicativo simples para simular o controle de uma conta bancária.
+Este é um aplicativo simples para simular o controle de uma conta bancária, desenvolvido em Python.
 
 ## 🎯 Objetivos do Projeto
 
-O objetivo deste projeto é implementar um sistema básico de controle bancário, com as seguintes funcionalidades:
+O objetivo deste projeto é implementar um sistema básico de controle bancário com as seguintes funcionalidades:
 
 - Exibir os dados do cliente (Nome, Tipo da Conta e Saldo).
 - Apresentar um menu com 4 funcionalidades principais:
